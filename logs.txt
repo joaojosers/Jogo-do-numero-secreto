@@ -1,0 +1,55 @@
+commit 349179fb8743168427301bc4787f4f4758e9d354
+Author: Joao Jose Sousa <joaojoserodeso@gmail.com>
+Date:   Tue Jan 28 10:34:53 2025 -0300
+
+    Update index.html
+
+commit 1c19e1a540e7d37669a5863613d04b55528aa47d
+Author: Joao Jose Sousa <joaojoserodeso@gmail.com>
+Date:   Tue Jan 28 10:34:29 2025 -0300
+
+    Update app.js
+
+commit e8af5a6c796dad0c3aab102f8aff0afc7a950fe0
+Author: Joao Jose Rocha de Sousa <joaojoserodeso@gmail.com>
+Date:   Mon Jan 27 18:05:16 2025 -0300
+
+    alterar para gerar numero aleatorio até 100
+
+commit 1548f1b4695a43d93b5a46c085c1da9b208357b1
+Author: João José <joaojose@Joaos-MacBook-Pro.local>
+Date:   Mon Jan 27 16:48:16 2025 -0300
+
+    README
+
+commit dfe47afd492a615328f06e85e2684535cfa648ea
+Author: Joao Jose Sousa <joaojoserodeso@gmail.com>
+Date:   Thu Jan 23 11:28:43 2025 -0300
+
+    Delete img/beta.png
+    
+    deletion of file
+
+commit a25248ce149867029afea30a8300c1c9e6819d83
+Author: Joao Jose Sousa <joaojoserodeso@gmail.com>
+Date:   Thu Jan 23 11:20:24 2025 -0300
+
+    Rename ia.png to img/ia.png
+
+commit 1f0eb718cd4726595b2d03f6b0282c2ff07d63a2
+Author: Joao Jose Sousa <joaojoserodeso@gmail.com>
+Date:   Thu Jan 23 11:15:44 2025 -0300
+
+    Create beta.png
+
+commit 8eb30bce34b146a489f081c9ef6a0420c61ac8d1
+Author: Joao Jose Sousa <joaojoserodeso@gmail.com>
+Date:   Thu Jan 23 11:00:11 2025 -0300
+
+    Add files via upload
+
+commit b7a6df488096ea26e7f37e509dfb0811feb444d0
+Author: Joao Jose Sousa <joaojoserodeso@gmail.com>
+Date:   Thu Jan 23 10:48:10 2025 -0300
+
+    Initial commit
